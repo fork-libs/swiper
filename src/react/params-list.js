@@ -91,6 +91,7 @@ const paramsList = [
   'slideDuplicatePrevClass',
   'wrapperClass',
   'runCallbacksOnInit',
+  'nested',
 
   // modules
   'a11y',
