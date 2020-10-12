@@ -7,6 +7,7 @@ const paramsList = [
   '_speed',
   'cssMode',
   'updateOnWindowResize',
+  'nested',
   '_width',
   '_height',
   'preventInteractionOnTransition',
@@ -91,7 +92,6 @@ const paramsList = [
   'slideDuplicatePrevClass',
   'wrapperClass',
   'runCallbacksOnInit',
-  'nested',
 
   // modules
   'a11y',

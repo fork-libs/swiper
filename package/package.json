@@ -1,6 +1,6 @@
 {
-  "name": "@fork-libs/swiper",
-  "version": "6.3.2",
+  "name": "swiper",
+  "version": "6.3.3",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "main": "swiper.cjs.js",
   "jsnext:main": "swiper.esm.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fork-libs/swiper"
+    "url": "https://github.com/nolimits4web/Swiper.git"
   },
   "keywords": [
     "swiper",
